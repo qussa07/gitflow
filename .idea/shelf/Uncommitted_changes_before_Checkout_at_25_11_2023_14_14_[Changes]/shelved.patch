@@ -1,0 +1,12 @@
+Index: list.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/list.txt b/list.txt
+new file mode 100644
+--- /dev/null	(date 1700910863523)
++++ b/list.txt	(date 1700910863523)
+@@ -0,0 +1,1 @@
++Vasya
+\ No newline at end of file

@@ -1,0 +1,13 @@
+Index: list.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Qussa07
+===================================================================
+diff --git a/list.txt b/list.txt
+--- a/list.txt	
++++ b/list.txt	
+@@ -1,1 +1,1 @@
+-Qussa07
+\ No newline at end of file
++Vasya
+\ No newline at end of file
